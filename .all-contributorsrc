@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Thesmader",
+      "name": "Smarak Das",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/34758667?v=4",
+      "profile": "https://github.com/Thesmader",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Notes",
+  "projectOwner": "Thesmader",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
