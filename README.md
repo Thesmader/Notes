@@ -1,2 +1,2 @@
 # Notes
-Note taking app.
+A Note taking app.
