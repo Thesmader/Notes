@@ -1,2 +1,2 @@
 # Notes
-Note taking app.
+The best Note taking app.
